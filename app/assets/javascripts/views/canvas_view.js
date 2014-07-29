@@ -1,0 +1,5 @@
+Percolator.CanvasView = function(options) {
+
+};
+
+
